@@ -1,0 +1,12 @@
+{
+    "name": "SamUsamaToken",
+    "symbol": "SUT",
+    "description": "Only Possible On Solana",
+    "image": "https://raw.githubusercontent.com/jahangirmustafawordsense/sol/refs/heads/main/jpg.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Climate"
+      }
+    ]
+  }
