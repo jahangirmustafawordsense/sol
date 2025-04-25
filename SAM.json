@@ -1,7 +1,7 @@
 {
-    "name": "SamUsamaToken",
-    "symbol": "SUT",
-    "description": "Only Possible On Solana",
+    "name": "SamToken",
+    "symbol": "ST",
+    "description": "Samission Test",
     "image": "https://raw.githubusercontent.com/jahangirmustafawordsense/sol/refs/heads/main/jpg.png",
     "attributes": [
       {
