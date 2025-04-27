@@ -1,8 +1,8 @@
 {
-    "name": "Jesus X Elon",
-    "symbol": "JXE",
-    "description": "This is the officical collaboration of Jesus with Elon",
-    "image": "https://raw.githubusercontent.com/jahangirmustafawordsense/sol/refs/heads/main/Elon.png",
+    "name": "PEPSI",
+    "symbol": "PEPSI",
+    "description": "This is the officical coin of Pepsi",
+    "image": "https://raw.githubusercontent.com/jahangirmustafawordsense/sol/refs/heads/main/pepsi.png",
     "attributes": [
       {
         "trait_type": "Item",
