@@ -1,8 +1,8 @@
 {
-    "name": "PEPSI",
-    "symbol": "PEPSI",
-    "description": "This is the officical coin of Pepsi",
-    "image": "https://raw.githubusercontent.com/jahangirmustafawordsense/sol/refs/heads/main/pepsi.png",
+    "name": "Real BONK",
+    "symbol": "BonkAI",
+    "description": "This is the officical coin of BONK",
+    "image": "https://raw.githubusercontent.com/jahangirmustafawordsense/sol/refs/heads/main/bonk.jpg",
     "attributes": [
       {
         "trait_type": "Item",
